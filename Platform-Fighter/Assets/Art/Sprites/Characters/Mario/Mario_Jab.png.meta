@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: a5e5bd31a3d276c419b9a3a1ab30052a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1821261853638529503
+    second: Mario_Jab_0
+  - first:
+      213: -4697141073414108245
+    second: Mario_Jab_1
+  - first:
+      213: 659409879177504442
+    second: Mario_Jab_2
+  - first:
+      213: 1208314892625994420
+    second: Mario_Jab_3
+  - first:
+      213: 4469421907116753003
+    second: Mario_Jab_4
+  - first:
+      213: 9107827937447883379
+    second: Mario_Jab_5
+  - first:
+      213: -6320556079899031082
+    second: Mario_Jab_6
+  - first:
+      213: -6924577879720616492
+    second: Mario_Jab_7
+  - first:
+      213: 993514133020130175
+    second: Mario_Jab_8
+  - first:
+      213: 1081948754274277741
+    second: Mario_Jab_9
+  - first:
+      213: 6233911901812132288
+    second: Mario_Jab_10
+  - first:
+      213: -586393293340376674
+    second: Mario_Jab_11
+  - first:
+      213: 5624664136818595936
+    second: Mario_Jab_12
+  - first:
+      213: -1809676515282863659
+    second: Mario_Jab_13
+  - first:
+      213: 6443570412232460980
+    second: Mario_Jab_14
+  - first:
+      213: -1000744389597144073
+    second: Mario_Jab_15
+  - first:
+      213: 3058833197981090499
+    second: Mario_Jab_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario_Jab_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 54
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee7ea5ef399b6e0800000000000000
+      internalID: -1821261853638529503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 54
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab414b841760deb0800000000000000
+      internalID: -4697141073414108245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.52, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab622c99ac1b62900800000000000000
+      internalID: 659409879177504442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.67, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b269cf2efbc4c010800000000000000
+      internalID: 1208314892625994420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 54
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.53, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b600b056b83960e30800000000000000
+      internalID: 4469421907116753003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 54
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b5f6f041856e70800000000000000
+      internalID: 9107827937447883379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 54
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ceaaabbfd848a0800000000000000
+      internalID: -6320556079899031082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 57
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.64, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd99bb3b15f6ef90800000000000000
+      internalID: -6924577879720616492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 64
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.65, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bbef117dba9cd00800000000000000
+      internalID: 993514133020130175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.65, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d1bbd8aad30f00800000000000000
+      internalID: 1081948754274277741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.65, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9879498dd438650800000000000000
+      internalID: 6233911901812132288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.65, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9186c31866bcd7f0800000000000000
+      internalID: -586393293340376674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06893ff4b32de0e40800000000000000
+      internalID: 5624664136818595936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 24
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b2342cccb2e6e0800000000000000
+      internalID: -1809676515282863659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 6
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba455286292c6950800000000000000
+      internalID: 6443570412232460980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 6
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd813a744ac12f0800000000000000
+      internalID: -1000744389597144073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Jab_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 6
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c5d05698237a20800000000000000
+      internalID: 3058833197981090499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

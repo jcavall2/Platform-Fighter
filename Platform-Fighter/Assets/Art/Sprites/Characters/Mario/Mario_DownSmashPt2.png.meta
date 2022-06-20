@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: de82366f1ebe05049ac87ddc6ce92610
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7726540085043707895
+    second: Mario_DownSmashPt2_0
+  - first:
+      213: 1798452667050350269
+    second: Mario_DownSmashPt2_1
+  - first:
+      213: 3732798562570545985
+    second: Mario_DownSmashPt2_2
+  - first:
+      213: 4471182306231043337
+    second: Mario_DownSmashPt2_3
+  - first:
+      213: 5254284370850774271
+    second: Mario_DownSmashPt2_4
+  - first:
+      213: 9134656617648531467
+    second: Mario_DownSmashPt2_5
+  - first:
+      213: -1982695261973993000
+    second: Mario_DownSmashPt2_6
+  - first:
+      213: -816898368692322691
+    second: Mario_DownSmashPt2_7
+  - first:
+      213: -212328584685746880
+    second: Mario_DownSmashPt2_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb8d7354f2a3b60800000000000000
+      internalID: 7726540085043707895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d3ec0c2365f810800000000000000
+      internalID: 1798452667050350269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 36
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2b14f3809dc330800000000000000
+      internalID: 3732798562570545985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 11
+        width: 41
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c9e04e94dc0e30800000000000000
+      internalID: 4471182306231043337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 34
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.79}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc72710cc7fae840800000000000000
+      internalID: 5254284370850774271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 11
+        width: 34
+        height: 25
+      alignment: 9
+      pivot: {x: 0.42, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ac18dbc1d4ce70800000000000000
+      internalID: 9134656617648531467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 35
+        height: 25
+      alignment: 9
+      pivot: {x: 0.44, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a03cf92d0c74e0800000000000000
+      internalID: -1982695261973993000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 11
+        width: 41
+        height: 22
+      alignment: 9
+      pivot: {x: 0.55, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7f74034bc9a4f0800000000000000
+      internalID: -816898368692322691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_DownSmashPt2_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: 0.58, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450526f648ad0df0800000000000000
+      internalID: -212328584685746880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

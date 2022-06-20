@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: a7a22636e66c4864a9fd2e8fb40020c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7785056165086750016
+    second: Mario_FAir_0
+  - first:
+      213: 3444767971770961329
+    second: Mario_FAir_1
+  - first:
+      213: 8320686633270051539
+    second: Mario_FAir_2
+  - first:
+      213: 9030631890339660878
+    second: Mario_FAir_3
+  - first:
+      213: -6996407776443340071
+    second: Mario_FAir_4
+  - first:
+      213: -4161469312401373614
+    second: Mario_FAir_5
+  - first:
+      213: -6009941451972970021
+    second: Mario_FAir_6
+  - first:
+      213: 5820914629473338058
+    second: Mario_FAir_7
+  - first:
+      213: 8819169304821343525
+    second: Mario_FAir_8
+  - first:
+      213: -3651363210962737518
+    second: Mario_FAir_9
+  - first:
+      213: 6174078196933913226
+    second: Mario_FAir_10
+  - first:
+      213: 238876061348532726
+    second: Mario_FAir_11
+  - first:
+      213: -3556440837392058287
+    second: Mario_FAir_12
+  - first:
+      213: 6575282181721920543
+    second: Mario_FAir_13
+  - first:
+      213: 5722013887304851239
+    second: Mario_FAir_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario_FAir_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 106
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045e57cc5531a0c60800000000000000
+      internalID: 7785056165086750016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0d0b18364ecf20800000000000000
+      internalID: 3444767971770961329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 105
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d207677864097370800000000000000
+      internalID: 8320686633270051539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 105
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448201abdf335d70800000000000000
+      internalID: 9030631890339660878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 105
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da60552234c7ee90800000000000000
+      internalID: -6996407776443340071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25680a275bd7f36c0800000000000000
+      internalID: -4161469312401373614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 58
+        width: 47
+        height: 39
+      alignment: 9
+      pivot: {x: 0.56, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9714a6716689ca0800000000000000
+      internalID: -6009941451972970021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 52
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.57, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac202a5d30b08c050800000000000000
+      internalID: 5820914629473338058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 53
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a7ebb1cbf36a70800000000000000
+      internalID: 8819169304821343525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 57
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e2a06180c35dc0800000000000000
+      internalID: -3651363210962737518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 57
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.285, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aeabf886bbea550800000000000000
+      internalID: 6174078196933913226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 57
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0.29, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1160e1388a05300800000000000000
+      internalID: 238876061348532726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bd86b6ebf4aec0800000000000000
+      internalID: -3556440837392058287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149d739e48104b50800000000000000
+      internalID: 6575282181721920543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FAir_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f58a0605da86f40800000000000000
+      internalID: 5722013887304851239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

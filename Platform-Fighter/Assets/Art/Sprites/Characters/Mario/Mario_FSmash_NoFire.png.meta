@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 448b4cfc56253094da15ca516979e55b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6977837077582203541
+    second: Mario_FSmash_NoFire_0
+  - first:
+      213: 2074924683394506965
+    second: Mario_FSmash_NoFire_1
+  - first:
+      213: 9094716650610679577
+    second: Mario_FSmash_NoFire_2
+  - first:
+      213: -5176947635466792520
+    second: Mario_FSmash_NoFire_3
+  - first:
+      213: 2184473387971117604
+    second: Mario_FSmash_NoFire_4
+  - first:
+      213: -308307787433254102
+    second: Mario_FSmash_NoFire_5
+  - first:
+      213: -8468435838639480630
+    second: Mario_FSmash_NoFire_6
+  - first:
+      213: 2386360012644304537
+    second: Mario_FSmash_NoFire_7
+  - first:
+      213: -8360134102066306739
+    second: Mario_FSmash_NoFire_8
+  - first:
+      213: -6127317577673281314
+    second: Mario_FSmash_NoFire_9
+  - first:
+      213: -306580335009021503
+    second: Mario_FSmash_NoFire_10
+  - first:
+      213: -8439898310882544837
+    second: Mario_FSmash_NoFire_11
+  - first:
+      213: 7422304623188882909
+    second: Mario_FSmash_NoFire_12
+  - first:
+      213: 5892020452493822975
+    second: Mario_FSmash_NoFire_13
+  - first:
+      213: 3526400009650626527
+    second: Mario_FSmash_NoFire_14
+  - first:
+      213: -7830009979246822222
+    second: Mario_FSmash_NoFire_15
+  - first:
+      213: -267621861710949083
+    second: Mario_FSmash_NoFire_18
+  - first:
+      213: 5866711406481249163
+    second: Mario_FSmash_NoFire_15
+  - first:
+      213: -4002901963821585570
+    second: Mario_FSmash_NoFire_15
+  - first:
+      213: -839980278877213222
+    second: Mario_FSmash_NoFire_15
+  - first:
+      213: 4791237996164919677
+    second: Mario_FSmash_NoFire_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b92ae52eb92f90800000000000000
+      internalID: -6977837077582203541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06b61910d9bcc10800000000000000
+      internalID: 2074924683394506965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fda7c9b9ce63e70800000000000000
+      internalID: 9094716650610679577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 87
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1143fdd89c728b0800000000000000
+      internalID: -5176947635466792520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 87
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220057f8fec05e10800000000000000
+      internalID: 2184473387971117604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 87
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ed8863bba8bbf0800000000000000
+      internalID: -308307787433254102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 47
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.43, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e4b2f8721a7a80800000000000000
+      internalID: -8468435838639480630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9964cdbb9cd0e1120800000000000000
+      internalID: 2386360012644304537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 47
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.62, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4165bbf356dafb80800000000000000
+      internalID: -8360134102066306739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f6c4802567faa0800000000000000
+      internalID: -6127317577673281314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 36
+        height: 26
+      alignment: 9
+      pivot: {x: 0.88, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1caa44fcecebbf0800000000000000
+      internalID: -306580335009021503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 35
+        height: 28
+      alignment: 9
+      pivot: {x: 0.88, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333d67e3357fda80800000000000000
+      internalID: -8439898310882544837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b9efcab2510760800000000000000
+      internalID: 7422304623188882909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.87, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0b306269a4c150800000000000000
+      internalID: 5892020452493822975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd827002a40f030800000000000000
+      internalID: 3526400009650626527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcba37b867365390800000000000000
+      internalID: -7830009979246822222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 7
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.61, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525179ea557394cf0800000000000000
+      internalID: -267621861710949083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.66, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b831c07e0feba6150800000000000000
+      internalID: 5866711406481249163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.66, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b63b74fd5d278c0800000000000000
+      internalID: -4002901963821585570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adda033036ac754f0800000000000000
+      internalID: -839980278877213222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_FSmash_NoFire_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b3cb8295ed7240800000000000000
+      internalID: 4791237996164919677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
